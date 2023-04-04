@@ -1,4 +1,4 @@
-body {
+.body {
 
   font-size: 10pt;
 
@@ -16,3 +16,9 @@ body {
 
 }
 
+ 
+.app-hdr  {
+   display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
