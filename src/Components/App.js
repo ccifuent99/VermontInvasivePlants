@@ -9,11 +9,12 @@ const App = () => {
         <h1> Vermont Invasive Species Management 2023</h1>
       </header>
 
-      <p> Data collected from Vermont EPA </p>
       <p>
         {" "}
-        Not sponsored or affiliated with Vermont government and data collectors{" "}
+        Data collected from Vermont EPA && not sponsored or affiliated with
+        Vermont government and data collectors
       </p>
+
       <Routes>
         <Route path="/" element={<Map />} />
       </Routes>
