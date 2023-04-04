@@ -9,9 +9,9 @@ const App = () => {
         <h1> Vermont Invasive Species Management 2023</h1>
       </header>
 
-      <p>
+      <p className="app-des">
         {" "}
-        Data collected from Vermont EPA && not sponsored or affiliated with
+        Data collected from Vermont EPA & not sponsored or affiliated with
         Vermont government and data collectors
       </p>
 
